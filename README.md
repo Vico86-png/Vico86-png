@@ -2,9 +2,9 @@
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on Professional AI Team
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me picovicoco@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: introvert
 
 <!---
 Vico86-png/Vico86-png is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
